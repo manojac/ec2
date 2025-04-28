@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = 'ap-south-1'               // Change as needed
-        INSTANCE_ID = 'i-09b3b59bb7dd7cbd7'    // Replace with your EC2 instance ID
+        INSTANCE_ID = 'i-07f3fca583c2da33d'    // Replace with your EC2 instance ID
     }
 
     parameters {
